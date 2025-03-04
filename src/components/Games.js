@@ -20,21 +20,6 @@ const Games = () => {
       `
     },
     {
-      id: 2,
-      title: "The Last of Us",
-      developer: "Naughty Dog",
-      image: "/images/games/the-last-of-us.jpg",
-      takeaways: `
-        The Last of Us taught me about the complexity of morality in a broken world. Joel's journey from a broken, 
-        bitter man to someone capable of love again—and the terrible choices that stem from that love—showed how 
-        our greatest virtues can lead to our most questionable actions.
-        
-        The game's exploration of the price of survival and what makes life worth living in a post-apocalyptic 
-        world made me reflect on what I would sacrifice for those I care about, and whether the ends ever truly 
-        justify the means.
-      `
-    },
-    {
       id: 3,
       title: "Disco Elysium",
       developer: "ZA/UM",

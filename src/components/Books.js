@@ -2,13 +2,12 @@ import React from 'react';
 import MediaItem from './MediaItem';
 
 const Books = () => {
-  // Example data - in a real application, this would come from a database or API
   const books = [
     {
       id: 1,
       title: "Metamorphosis",
       author: "Franz Kafka",
-      image: "/images/books/metamorphosis.jpg",
+      image: `${process.env.PUBLIC_URL}/images/books/metamorphosis.jpg`,
       takeaways: `
         Franz Kafka's Metamorphosis explores the alienation of modern humanity and the absurdity of life. 
         Through Gregor Samsa's transformation into an insect, I learned about how society treats those who cannot contribute 
@@ -22,7 +21,7 @@ const Books = () => {
       id: 2,
       title: "The Prophet",
       author: "Khalil Gibran",
-      image: "/images/books/the-prophet.jpg",
+      image: `${process.env.PUBLIC_URL}/images/books/the-prophet.jpg`,
       takeaways: `
         Khalil Gibran's poetic wisdom in The Prophet has been a source of guidance for me on love, marriage, children, giving, work, and other aspects of life.
         

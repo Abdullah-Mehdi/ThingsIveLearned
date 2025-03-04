@@ -5,10 +5,10 @@ const LandingPage = () => {
   return (
     <div className="landing-page">
       <div className="background-images">
-        <div className="bg-image" style={{ backgroundImage: "url('/images/metamorphosis.jpg')" }}></div>
-        <div className="bg-image" style={{ backgroundImage: "url('/images/evangelion.jpg')" }}></div>
-        <div className="bg-image" style={{ backgroundImage: "url('/images/nier-automata.jpg')" }}></div>
-        <div className="bg-image" style={{ backgroundImage: "url('/images/the-prophet.jpg')" }}></div>
+        <div className="bg-image" style={{ backgroundImage: `url('${process.env.PUBLIC_URL}/images/metamorphosis.jpg')` }}></div>
+        <div className="bg-image" style={{ backgroundImage: `url('${process.env.PUBLIC_URL}/images/evangelion.jpg')` }}></div>
+        <div className="bg-image" style={{ backgroundImage: `url('${process.env.PUBLIC_URL}/images/nier-automata.jpg')` }}></div>
+        <div className="bg-image" style={{ backgroundImage: `url('${process.env.PUBLIC_URL}/images/the-prophet.jpg')` }}></div>
       </div>
       
       <div className="content-overlay">

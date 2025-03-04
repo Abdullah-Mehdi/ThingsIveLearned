@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ThingsIveLearned/static/css/main.5a3b8269.css",
-    "main.js": "/ThingsIveLearned/static/js/main.dd8450d5.js",
-    "static/js/453.85c7c9d6.chunk.js": "/ThingsIveLearned/static/js/453.85c7c9d6.chunk.js",
-    "index.html": "/ThingsIveLearned/index.html",
-    "main.5a3b8269.css.map": "/ThingsIveLearned/static/css/main.5a3b8269.css.map",
-    "main.dd8450d5.js.map": "/ThingsIveLearned/static/js/main.dd8450d5.js.map",
-    "453.85c7c9d6.chunk.js.map": "/ThingsIveLearned/static/js/453.85c7c9d6.chunk.js.map"
+    "main.css": "/things-ive-learned/static/css/main.5a3b8269.css",
+    "main.js": "/things-ive-learned/static/js/main.67f49465.js",
+    "static/js/453.85c7c9d6.chunk.js": "/things-ive-learned/static/js/453.85c7c9d6.chunk.js",
+    "index.html": "/things-ive-learned/index.html",
+    "main.5a3b8269.css.map": "/things-ive-learned/static/css/main.5a3b8269.css.map",
+    "main.67f49465.js.map": "/things-ive-learned/static/js/main.67f49465.js.map",
+    "453.85c7c9d6.chunk.js.map": "/things-ive-learned/static/js/453.85c7c9d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a3b8269.css",
-    "static/js/main.dd8450d5.js"
+    "static/js/main.67f49465.js"
   ]
 }

@@ -14,9 +14,9 @@ const LandingPage = () => {
       <div className="content-overlay">
         <h1>Things I've Learned</h1>
         <div className="description">
-          <p>A common issue I have with consuming media - particularly written is forgetting any of the larger messages that resonated with me. That is any sort of moral, philosophical, societal messages and values I took to heart will often be lost to me with time.</p>
+          <p>A common issue I have with consuming media is forgetting any of the larger messages that resonated with me. That is any sort of moral, philosophical, societal messages and values I took to heart will often be lost to me with time.</p>
           <p>This project serves as a personal database of meaningful insights and takeaways from various forms of media that have left an impact on me.</p>
-          <p>Browse through the tabs to explore my reflections on books, games, shows, anime, manga, and meaningful quotes that have shaped my perspective.</p>
+          <p>Browse through the tabs to explore my reflections on books, games, movies, shows, anime, manga, and meaningful quotes that have shaped my perspective.</p>
         </div>
         
         <div className="cta">

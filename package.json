@@ -2,7 +2,7 @@
   "name": "things-ive-learned",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abdullah-mehdi.github.io/ThingsIveLearned",
+  "homepage": "https://abdullah-mehdi.github.io/things-ive-learned",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
